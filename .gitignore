@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider
+.idea/
+
+# Local configuration
+appsettings.Development.json
+# Publish artifacts
+publish/
+
+# Logs
+*.log
+
